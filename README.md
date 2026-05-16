@@ -1,3 +1,7 @@
+> 本分支为 MiniMind 预训练复现与优化记录分支。报告以 Markdown 形式维护在 [docs/PRETRAIN_REPORT.md](./docs/PRETRAIN_REPORT.md)。
+
+---
+
 <div align="center">
 
 ![logo](./images/logo.png)
